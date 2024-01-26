@@ -1,3 +1,3 @@
 [submodule "backend/stock"]
 	path = backend/stock
-	url = /home/vieira-a/git/wp/smartsync/backend/stock/
+	url = git@github.com:vieira-a/stock.git
